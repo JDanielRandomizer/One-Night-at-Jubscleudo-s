@@ -66,6 +66,7 @@ tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro so
 
 # updates
 (22/08/2024) - realease da Versão 1:
+
 *é isso, literalmente, só isso
 
 # bugs que já vi
