@@ -15,6 +15,21 @@ esse jogo é uma fangame de fnaf, mas no lugar dos animatronics temos o jubscleu
 nesse jogo você joga com o ronaldo do canal gato galatico, seu objetivo é gravar o melhor video do youtube inteiro!
 Será que você consiguira completar esse feito? jogue para ver
 
+# screenshots
+algumas screenshots do jogo
+
+![imagem_2024-08-22_170755147](https://github.com/user-attachments/assets/336db67f-f1d1-4513-9f49-0fdb577b1144)
+
+![imagem_2024-08-22_170944473](https://github.com/user-attachments/assets/ba7cdfa3-692d-4a65-bee9-9854d9c4fb65)
+
+![image](https://github.com/user-attachments/assets/4bd043e3-f68c-45fb-b8fe-ab711d59e544)
+
+![image](https://github.com/user-attachments/assets/8a617acc-bb5b-4a91-9ab7-17d1c1331958)
+
+![image](https://github.com/user-attachments/assets/dfdb7fd8-989e-433d-9eab-c33bd6c631f1)
+
+![image](https://github.com/user-attachments/assets/fa0b0ec2-cf9f-49ce-9556-df3be7ce66f9)
+
 # controles
 mouse - quase tudo
 
@@ -47,10 +62,9 @@ tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro so
 ![imagem_2024-08-21_230938316](https://github.com/user-attachments/assets/f3d50833-a692-421c-a271-36efefbb0224)
 
 # bugs que já vi
-* quando se abre o monitor, o jubscleudo/jurelma se move e você está em sua camera eles apareceram antes do devido momento 
+* quando se abre o monitor, o jubscleudo/jurelma se move e você está em sua camera eles apareceram antes do devido momento
+* dois animatronics te matarem, tocar o som de jumpscare duas vezes e trocar a imagem no meio do jumpscare
 
 # é isso por agora
 ![jimmy](https://github.com/user-attachments/assets/9b47d8c7-79ab-4343-ad79-3924946c485c)
-
-(editado: 21/08/2024, 23:12)
 
