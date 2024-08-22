@@ -10,3 +10,8 @@ bem vindo ao source code do ONaJ (One Night at Jubscleudo's)
 # sobre o jogo
 
 esse jogo é uma fangame de fnaf, mas no lugar dos animatronics temos o jubscleudos e seus amigos!!
+
+![imagem_2024-08-21_223411592](https://github.com/user-attachments/assets/f2995029-6346-4ba8-a3c6-54b1fd369391)
+
+![jimmy](https://github.com/user-attachments/assets/9b47d8c7-79ab-4343-ad79-3924946c485c)
+
