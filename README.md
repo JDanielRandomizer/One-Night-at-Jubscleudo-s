@@ -16,6 +16,11 @@ esse jogo é uma fangame de fnaf, mas no lugar dos animatronics temos o jubscleu
 nesse jogo você joga com o ronaldo do canal gato galatico, seu objetivo é gravar o melhor video do youtube inteiro!
 Será que você consiguira completar esse feito? jogue para ver
 
+# controles
+
+mouse - quase tudo
+h - no menu, ativa/desativa o cheat de noite mais curta
+
 # sobre o source
 
 tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro source tem as pastas comuns
