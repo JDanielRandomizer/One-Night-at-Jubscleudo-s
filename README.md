@@ -38,6 +38,10 @@ olhe abaixo
 
 ![imagem_2024-08-22_161622184](https://github.com/user-attachments/assets/097506ce-11da-4333-8281-7871080b4618)
 
+# creditos
+
+JDaniel Aleatorio (eu) - artista, programador e as outras coisas em geral
+NineFds - sfxs e musica
 # sobre o source
 
 tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro source tem as pastas comuns
