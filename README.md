@@ -17,9 +17,8 @@ nesse jogo você joga com o ronaldo do canal gato galatico, seu objetivo é grav
 Será que você consiguira completar esse feito? jogue para ver
 
 # controles
-
 mouse - quase tudo
--------
+
 h - no menu, ativa/desativa o cheat de noite mais curta
 
 ![imagem_2024-08-22_155446802](https://github.com/user-attachments/assets/b69c89c4-5508-4f69-81cf-6ed220318f9c)
@@ -39,23 +38,19 @@ olhe abaixo
 ![imagem_2024-08-22_161622184](https://github.com/user-attachments/assets/097506ce-11da-4333-8281-7871080b4618)
 
 # creditos
-
 JDaniel Aleatorio (eu) - artista, programador e as outras coisas em geral
--------
+
 NineFds - sfxs e musica
 
 # sobre o source
-
 tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro source tem as pastas comuns
 
 ![imagem_2024-08-21_230938316](https://github.com/user-attachments/assets/f3d50833-a692-421c-a271-36efefbb0224)
 
 # bugs que já vi
-
 * quando se abre o monitor, o jubscleudo/jurelma se move e você está em sua camera eles apareceram antes do devido momento 
 
 # é isso por agora
-
 ![jimmy](https://github.com/user-attachments/assets/9b47d8c7-79ab-4343-ad79-3924946c485c)
 
 (editado: 21/08/2024, 23:12)
