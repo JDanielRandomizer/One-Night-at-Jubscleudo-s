@@ -56,6 +56,9 @@ JDaniel Aleatorio (eu) - artista, programador e as outras coisas em geral
 
 NineFds - sfxs e musica
 
+![jdaniel](https://github.com/user-attachments/assets/f4310298-5cef-48ae-8873-d354be99490d)
+![nine](https://github.com/user-attachments/assets/515e52ca-c7b7-46d0-9a08-580e669414c2)
+
 # sobre o source
 tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro source tem as pastas comuns
 
