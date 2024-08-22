@@ -64,6 +64,10 @@ tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro so
 
 ![imagem_2024-08-21_230938316](https://github.com/user-attachments/assets/f3d50833-a692-421c-a271-36efefbb0224)
 
+# updates
+(22/08/2024) - realease da Versão 1:
+*é isso, literalmente, só isso
+
 # bugs que já vi
 * quando se abre o monitor, o jubscleudo/jurelma se move e você está em sua camera eles apareceram antes do devido momento
 * dois animatronics te matarem, tocar o som de jumpscare duas vezes e trocar a imagem no meio do jumpscare
