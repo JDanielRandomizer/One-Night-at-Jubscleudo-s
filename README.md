@@ -40,7 +40,7 @@ olhe abaixo
 
 # creditos
 
-JDaniel Aleatorio (eu) - artista, programador e as outras coisas em geral
+JDaniel Aleatorio (eu) - artista, programador e as outras coisas em geral\n
 NineFds - sfxs e musica
 # sobre o source
 
