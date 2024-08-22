@@ -1,5 +1,5 @@
 # aviso!!!
-não sou proficional em haxeflixel, então antes que você venha me xingar falando que podirar te feito
+não sou profissional em haxeflixel, então antes que você venha me xingar falando que podirar te feito
 uma coisa de outro jeito, tá aqui
 
 # bem vindo!
