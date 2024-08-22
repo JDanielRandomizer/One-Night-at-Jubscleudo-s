@@ -13,7 +13,7 @@ esse jogo é uma fangame de fnaf, mas no lugar dos animatronics temos o jubscleu
 ![imagem_2024-08-21_223411592](https://github.com/user-attachments/assets/f2995029-6346-4ba8-a3c6-54b1fd369391)
 
 nesse jogo você joga com o ronaldo do canal gato galatico, seu objetivo é gravar o melhor video do youtube inteiro!
-Será que você consiguira completar esse feito? jogue para ver
+Será que você conseguira completar esse feito? jogue para ver
 
 # screenshots
 algumas screenshots do jogo
