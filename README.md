@@ -28,6 +28,16 @@ h - no menu, ativa/desativa o cheat de noite mais curta
 
 olhe abaixo
 
+![imagem_2024-08-22_160039501](https://github.com/user-attachments/assets/5181903d-17a8-4d21-9861-87e178024734)
+
+![imagem_2024-08-22_160359542](https://github.com/user-attachments/assets/09517775-35a2-4275-bb72-a46869bbb8df)
+
+![imagem_2024-08-22_160840085](https://github.com/user-attachments/assets/7ad3729c-c906-4a96-9d11-e50c611093d1)
+
+![imagem_2024-08-22_161252266](https://github.com/user-attachments/assets/8f19f72d-cf34-4998-939e-7af6926cefa6)
+
+![imagem_2024-08-22_161622184](https://github.com/user-attachments/assets/097506ce-11da-4333-8281-7871080b4618)
+
 # sobre o source
 
 tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro source tem as pastas comuns
