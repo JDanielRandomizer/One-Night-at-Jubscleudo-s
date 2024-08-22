@@ -19,7 +19,7 @@ Será que você consiguira completar esse feito? jogue para ver
 # controles
 
 mouse - quase tudo
-
+-------
 h - no menu, ativa/desativa o cheat de noite mais curta
 
 ![imagem_2024-08-22_155446802](https://github.com/user-attachments/assets/b69c89c4-5508-4f69-81cf-6ed220318f9c)
@@ -40,8 +40,10 @@ olhe abaixo
 
 # creditos
 
-JDaniel Aleatorio (eu) - artista, programador e as outras coisas em geral\n
+JDaniel Aleatorio (eu) - artista, programador e as outras coisas em geral
+-------
 NineFds - sfxs e musica
+
 # sobre o source
 
 tem a pasta dos flas (acho que é só isso de especial) e como qualquer outro source tem as pastas comuns
